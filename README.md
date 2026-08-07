@@ -6,12 +6,12 @@ instant AI-scored feedback on technical + communication quality, and download a 
 feedback report at the end.
 
 ## Features
-- 🔐 JWT authentication (register/login)
-- 📄 Resume upload (PDF/DOCX/TXT) with text extraction
-- 🤖 AI-generated interview questions (OpenAI) tailored to resume + target role
-- 🎤 Voice input via the browser's Web Speech API (falls back to typing)
-- 📊 AI evaluation of each answer — separate technical & communication scores (0–10) + written feedback
-- 🧾 Auto-generated PDF feedback report (ReportLab) with per-question breakdown
+-  JWT authentication (register/login)
+-  Resume upload (PDF/DOCX/TXT) with text extraction
+-  AI-generated interview questions (OpenAI) tailored to resume + target role
+-  Voice input via the browser's Web Speech API (falls back to typing)
+-  AI evaluation of each answer — separate technical & communication scores (0–10) + written feedback
+-  Auto-generated PDF feedback report (ReportLab) with per-question breakdown
 
 ## Tech Stack
 - **Frontend:** React (Vite), React Router, Axios
